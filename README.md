@@ -1,4 +1,4 @@
-### Route Handling by creating https server for hospital management where data is locaated locally.
+### Route Handling by creating https server for hospital management where data is located locally.
 ---
 ##  This is just for preacticing backend route handling using express js 
 --- 
